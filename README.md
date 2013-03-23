@@ -2,7 +2,7 @@
 
 Course Project
 
-****
+
 ##License
 
 MIT License
