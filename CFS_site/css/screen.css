@@ -68,6 +68,11 @@
         border-radius: 0 3px 3px 0;
       }
 
+	  /* customize header part */
+	  #header h3{
+	  	color: #990000;
+	  }
+
 	  /* customize content part */
 	  #content{
 	  	min-height: 300px;
