@@ -69,6 +69,10 @@
       }
 
 	  /* customize header part */
+	  #header h3 {
+		color: #990000;
+	  }
+
 	  #header h3 a{
 	  	color: #990000;
 	  }
